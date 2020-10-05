@@ -1,0 +1,8 @@
+// function totalPrice(price, tipPercent, taxPercent){
+// let tp = price * tipPercent/100;
+// let txp= price * taxPercent/100;
+// let totalPrice = price + tp + txp;
+// totalPrice = totalPrice.toFixed(2);
+// return Number(totalPrice);
+// }
+// console.log(totalPrice(100,15,12))
