@@ -1,0 +1,10 @@
+// function absoluteValuesOperations(a, b){
+//    let arrtotals = [];
+//  let sum = Math.abs(a) + Math.abs(b);
+//  let dif = Math.abs(a) - Math.abs(b);
+//  let mult = Math.abs(a) * Math.abs(b);
+//  let div = Math.round(Math.abs(a) / Math.abs(b));
+//  arrtotals.push(sum, dif, mult, div);
+//    return arrtotals;
+ 
+//}
