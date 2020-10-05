@@ -1,0 +1,7 @@
+/ //function ringArea(r1, r2){
+// let area1 = Math.PI * Math.pow(r1, 2);
+// let area2 = Math.PI * Math.pow(r2, 2);
+// let dif = area1 - area2;
+// dif = Math.floor(dif);
+// return dif;
+// }
