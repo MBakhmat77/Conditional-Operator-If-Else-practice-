@@ -1,0 +1,9 @@
+
+// function area(a, b){
+// let s1 = Math.pow(a, 2);
+//   let s2 = Math.pow(b, 2);
+
+// let area = s1 - s2;
+// return area;
+// }
+// console.log(area(7,2));
