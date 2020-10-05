@@ -1,0 +1,12 @@
+// Даны два числа. Найдите сумму, разность, произведение и частное их квадратов.
+
+// function squareOperations(a, b){
+//   let arrtotals = [];
+// let sum = Math.pow(a,2) + Math.pow(b,2);
+// let dif = Math.pow(a,2) - Math.pow(b,2);
+// let mult = Math.pow(a,2) * Math.pow(b,2);
+// let div = Math.round(Math.pow(a,2) / Math.pow(b,2));
+// arrtotals.push(sum, dif,mult, div);
+//   return arrtotals;
+// }
+// console.log(squareOperations(2, 3));
