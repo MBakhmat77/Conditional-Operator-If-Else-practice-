@@ -1,0 +1,9 @@
+// function isPalindrome(num){
+//  let a = String(num);
+//   console.log(a)
+//  if ( /*a[0] < a[1] && a[1] > a[2] &&*/ a[0] === a[2]){
+//  return "palindrome";
+//  }else return "not a palindrome";
+  
+// }
+// console.log(isPalindrome(121));
