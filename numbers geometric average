@@ -1,0 +1,9 @@
+// Среднее геометрическое двух чисел
+
+// function geometricMean(a, b){
+// let pow = a * b;
+// let geometr = Math.sqrt(pow);
+// let result = geometr.toFixed(2);
+//   return result;
+// }
+// console.log(geometricMean(2, 3));
