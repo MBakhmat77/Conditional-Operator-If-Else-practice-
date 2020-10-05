@@ -1,0 +1,18 @@
+//Количество положительных и количество отрицательных чисел в 
+//наборе
+
+// function countOfPosAndNeg(a, b, c){
+// let countOfNegative = 0;
+// let countOfPositive = 0;
+// if(a<0){countOfNegative=countOfNegative+1;
+//        }
+  
+// {if(a>0){countOfPositive = countOfPositive +1;}
+// { if(b<0){countOfNegative=countOfNegative+1;}
+// {if (b>0){countOfPositive = countOfPositive +1;}
+// { if(c<0){countOfNegative=countOfNegative+1;}
+// { if (c>0){countOfPositive = countOfPositive +1;}
+// }}}}}
+// return [countOfPositive, countOfNegative];
+// }
+  
