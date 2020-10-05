@@ -1,0 +1,5 @@
+// Площадь круга
+
+// function circleArea(r){
+// return Math.round(Math.PI * Math.pow(r, 2));
+// }
