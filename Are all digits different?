@@ -1,0 +1,10 @@
+//console.log(areAllDigitsDifferent(123));
+// function areAllDigitsDifferent(num){
+//  let a = String(num);
+//  if ( a[0] < a[1] && a[1] < a[2] && a[0] < a[2]){
+//     return true;
+//   }else return false;
+//   num = +num;
+ 
+// }
+// console.log(areAllDigitsDifferent(129));
