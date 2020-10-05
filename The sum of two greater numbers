@@ -1,0 +1,25 @@
+// function sumOfTwoLargest(a, b, c){
+// let sum;
+// let max1;
+// let max2;
+// if ( a > b && a > c && b > c){
+// max1 = a;
+// max2 = b;
+// }else if( a > b && a > c && c > b){
+// max1 = a;
+// max2 = c;
+// }else if(b > a && b > c && a > c){
+// max1 = b;
+// max2 = a;
+// } else if(b > a && b > c && c > a){
+// max1 = b;
+// max2 = c;
+// }else if ( c > a && c > b && a > b ){
+// max1 = c;
+// max2 = a;
+// }else if ( c > a && c > b && b > a ) {
+// max1 = c;
+// max2 = b;
+// }
+// return sum = max1 + max2;
+// }
