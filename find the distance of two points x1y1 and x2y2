@@ -1,0 +1,7 @@
+// Даны две точки с координатамами (x1, y1) и (x2, y2).
+
+
+// function distance(x1, y1, x2, y2){
+// let dist = Math.sqrt(Math.pow((x2-x1),2) + Math.pow((y2-y1),2));
+// return Math.trunc(dist);
+// }
